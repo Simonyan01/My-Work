@@ -93,7 +93,7 @@
     transform: scale(2, 2);
 }
 
-button {
+.button {
     margin: 100px 0 0 100px;
     padding: 5px 25px 5px 25px;
     cursor: pointer;
